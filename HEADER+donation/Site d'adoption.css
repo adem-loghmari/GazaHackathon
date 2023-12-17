@@ -59,6 +59,9 @@ body {
     font-size: 20px;
     color:white;
 }
+.left-section img{
+    width: 50%;
+  }
 .right-section a:hover{
     color:rgb(209, 110, 17);
 }
